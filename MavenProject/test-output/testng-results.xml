@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23124" started-at="2019-03-15T10:00:45Z" finished-at="2019-03-15T10:01:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23124" started-at="2019-03-15T10:00:45Z" finished-at="2019-03-15T10:01:08Z">
+      <class name="Day10.FirstScript">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Day10.FirstScript@7f9fcf7f]" name="beforeTest" is-config="true" duration-ms="12814" started-at="2019-03-15T15:30:45Z" finished-at="2019-03-15T15:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TitleTest()[pri:0, instance:Day10.FirstScript@7f9fcf7f]" name="TitleTest" duration-ms="2835" started-at="2019-03-15T15:30:58Z" finished-at="2019-03-15T15:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Day10.FirstScript@7f9fcf7f]" name="afterTest" is-config="true" duration-ms="7346" started-at="2019-03-15T15:31:01Z" finished-at="2019-03-15T15:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Day10.FirstScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
